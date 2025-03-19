@@ -25,7 +25,7 @@
 - **Segundo Paso:** Ubicarte en la carpeta con el comando: cd Proyecto_Analisis_Numerico
 - **Tercer Paso:** Descargar librerias y crear entorno virtual con el comando: ./install.sh
 - **Cuarto Paso:** Activar entorno virtual con el comando: source env/bin/activate
-- **Quinto Paso:**Para asegurar que todo se haya instalado correctamente: ./install.sh
+- **Quinto Paso:** Para asegurar que todo se haya instalado correctamente: ./install.sh
 - **Sexto Paso:** Para Ejecutar el codigo: ./boot.sh
 **Nota:** En caso que el ./boot.sh no funcione, para ejecutar el programa podes usar: python3 main.py
 **Nota:** En caso que ./install.sh no funcione y las librerias no se instalen: pip install colorama numpy sympy
