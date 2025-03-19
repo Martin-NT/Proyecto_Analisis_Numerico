@@ -5,7 +5,6 @@
 # Proyecto Análisis Numérico - Método del Trapecio
 
 ## Información 
-- **Profesor:** 
 - **Nombre:** Martin Navarro
 - **Legajo:** 62181
 - **Carrera:** Ingeniería Informática 
